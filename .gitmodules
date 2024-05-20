@@ -1,0 +1,3 @@
+[submodule "ui/ui/zkPassport"]
+	path = ui/ui/zkPassport
+	url = https://github.com/mahmudsudo/zkPassport.git
